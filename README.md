@@ -147,6 +147,9 @@ a rythm guide / i wish to be a rythm guide
 ```
 !beatsbyelder
 ```
+```
+!concertwhen (outdated dont use)
+```
 # every command (messy)
 ```
 !command / !commands
