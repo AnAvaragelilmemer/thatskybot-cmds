@@ -147,7 +147,8 @@ a rythm guide / i wish to be a rythm guide
 ```
 !beatsbyelder
 ```
-# every command```
+# every command
+```
 !command / !commands
 !help
 !rank
