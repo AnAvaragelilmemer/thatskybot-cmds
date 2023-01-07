@@ -212,4 +212,7 @@ a rythm guide / i wish to be a rythm guide
 !helpshift
 !concertwhen (outdated)
 !herecomesthesun
+!whosthatsprit
+!holdmyhand
+!happynewyear (outdated)
 ```
