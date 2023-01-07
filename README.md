@@ -159,6 +159,9 @@ a rythm guide / i wish to be a rythm guide
 ```
 !helpshift
 ```
+```
+!herecomesthesun
+```
 # every command (messy)
 ```
 !command / !commands
@@ -199,4 +202,5 @@ a rythm guide / i wish to be a rythm guide
 !controllers
 !helpshift
 !concertwhen (outdated)
+!herecomesthesun
 ```
