@@ -132,7 +132,22 @@ a rythm guide / i wish to be a rythm guide
 ```
 !psfaq
 ```
-
+```
+!wiki
+```
+```
+!support
+```
+```
+!spellshoppe
+```
+```
+!iheartyou
+```
+```
+!beatsbyelder
+```
+# every command```
 !command / !commands
 !help
 !rank
@@ -168,3 +183,4 @@ a rythm guide / i wish to be a rythm guide
 !spellshoppe
 !iheartyou
 !beatsbyelder
+```
