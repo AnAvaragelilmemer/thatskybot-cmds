@@ -156,6 +156,9 @@ a rythm guide / i wish to be a rythm guide
 ```
 !controllers
 ```
+```
+!helpshift
+```
 # every command (messy)
 ```
 !command / !commands
@@ -193,4 +196,7 @@ a rythm guide / i wish to be a rythm guide
 !spellshoppe
 !iheartyou
 !beatsbyelder
+!controllers
+!helpshift
+!concertwhen (outdated)
 ```
