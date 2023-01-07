@@ -33,6 +33,9 @@ please note that this is not completed yet.
 ```bash
 !ps
 ```
+```bash
+!s
+```
 # grandma/turtle/geyser when
 ```bash
 !grandmawhen
