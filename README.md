@@ -1,9 +1,15 @@
-# thatskybot commands 
+# thatskybot commands / the attempt of helping others
 please note that this is not completed yet.
 # goofy cmds
+```bash
 !thememetheme
+```
+```bash
 !parchnotes
-!command / !commands
+```
+```bash
+!command
+```
 # travelling sprit related cmds
 
 ```bash
@@ -28,16 +34,29 @@ please note that this is not completed yet.
 !ps
 ```
 # grandma/turtle/geyser when
+```bash
 !grandmawhen
+```
+```bash
 !geyserwhen
+```
+```bash
 !turtlewhen
+```
 # eden 
-!er 
+```bash
+!er
+``` 
+```bash
 !edenreset
+```
 # dms
 in this case, you need to get on skybot's dms to get it working
+```bash
 !team_mischief
+```
 every mischief roles 
+```bash
 a bean / i wish to be a bean
 a bird / i wish to be a bird
 a buff moth / i wish to be a buff moth
@@ -62,7 +81,7 @@ oreo / i wish to be oreo
 a performance guide / i wish to be a performance guide
 a prophecy guide / i wish to be a prophecy guide
 a rythm guide / i wish to be a rythm guide
-
+```
 # commands/misc
 
 !command / !commands
