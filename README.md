@@ -153,6 +153,9 @@ a rythm guide / i wish to be a rythm guide
 ```
 !concertwhen (outdated dont use)
 ```
+```
+!controllers
+```
 # every command (messy)
 ```
 !command / !commands
