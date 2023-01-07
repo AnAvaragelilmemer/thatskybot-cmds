@@ -5,13 +5,28 @@ please note that this is not completed yet.
 !parchnotes
 !command / !commands
 # travelling sprit related cmds
+
+```bash
 !ts
+```
+```bash
 !tss
-!ss
+```
+```bash
 !st
+```
+```bash
+!ss
+```
+```bash
 !t
+```
+```bash
 !ta
+```
+```bash
 !ps
+```
 # grandma/turtle/geyser when
 !grandmawhen
 !geyserwhen
