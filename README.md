@@ -162,6 +162,9 @@ a rythm guide / i wish to be a rythm guide
 ```
 !herecomesthesun
 ```
+```
+!holdmyhand
+```
 # every command (messy)
 ```
 !command / !commands
