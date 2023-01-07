@@ -82,7 +82,56 @@ a performance guide / i wish to be a performance guide
 a prophecy guide / i wish to be a prophecy guide
 a rythm guide / i wish to be a rythm guide
 ```
-# commands/misc
+# every commands (above commands will not show up)
+
+```
+!help
+```
+```
+!rank
+```
+```
+!harbinrank
+```
+```
+!gotosneep
+```
+```
+!parchnotes
+```
+```
+!seasonwhentellmebruh
+```
+```
+!omgomghaveyouseenthe
+```
+```
+!omgomgwhen
+```
+```
+!spoiler
+```
+```
+!msgcandles
+```
+```
+!patchnotes
+```
+```
+!friendsnotfood
+```
+```
+!skate-n-sleigh
+```
+```
+!serendipity
+```
+```
+!starpins
+```
+```
+!psfaq
+```
 
 !command / !commands
 !help
