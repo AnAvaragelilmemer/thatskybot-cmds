@@ -165,6 +165,9 @@ a rythm guide / i wish to be a rythm guide
 ```
 !holdmyhand
 ```
+```
+!happynewyear
+```
 # every command (messy)
 ```
 !command / !commands
