@@ -178,7 +178,7 @@ a rythm guide / i wish to be a rythm guide
 !happynewyear
 ```
 ```
-!whosthatsprit
+!whosthatsprit (does not work finding the command)
 ```
 ```
 !nagatirank
