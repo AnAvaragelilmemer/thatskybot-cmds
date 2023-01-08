@@ -124,7 +124,7 @@ i wish to be a shadow
 i wish to be a pair of pants
 ```
 ```
-oreo / i wish to be oreo
+i wish to be oreo
 ```
 ```
 i wish to be a performance guide
