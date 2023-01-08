@@ -171,6 +171,9 @@ a rythm guide / i wish to be a rythm guide
 ```
 !whosthatsprit
 ```
+```
+!nagatirank
+```
 # every command (messy)
 ```
 !command / !commands
