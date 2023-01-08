@@ -36,6 +36,9 @@ please note that this is not completed yet, Sky : children of the light's server
 ```bash
 !s
 ```
+```bash
+!tts
+```
 # grandma/turtle/geyser when
 ```bash
 !grandmawhen
