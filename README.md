@@ -136,6 +136,9 @@ a rythm guide / i wish to be a rythm guide
 !psfaq
 ```
 ```
+!pslink
+```
+```
 !wiki
 ```
 ```
