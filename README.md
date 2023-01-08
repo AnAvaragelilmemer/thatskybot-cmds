@@ -118,6 +118,9 @@ a rythm guide / i wish to be a rythm guide
 !spoiler
 ```
 ```
+!spoilertext
+```
+```
 !msgcandles
 ```
 ```
