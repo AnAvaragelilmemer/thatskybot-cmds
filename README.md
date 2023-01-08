@@ -231,4 +231,7 @@ i wish to be a rythm guide
 ```
 !lunarnewwhen
 ```
+```
+!doublehearts
+```
 # 
