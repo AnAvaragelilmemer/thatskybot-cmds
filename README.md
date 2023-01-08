@@ -180,48 +180,4 @@ a rythm guide / i wish to be a rythm guide
 ```
 !lunarnewwhen
 ```
-# every command (messy)
-```
-!command / !commands
-!help
-!rank
-!harbinrank
-!gotosneep
-!parchnotes
-!ts
-!tss
-!ss
-!st
-!t 
-!ta
-!ps
-!thememetheme
-!er - !edenreset
-!seasonwhentellmebruh
-!omgomghaveyouseenthe
-!omgomgwhen
-!spoiler
-!grandmawhen
-!geyserwhen
-!turtlewhen
-!msgcandles
-!patchnotes
-!skate-n-sleigh
-!team_mischief (will only work on skybot's dms)
-!friendsnotfood
-!serendipity
-!starpins
-!psfaq
-!support
-!wiki
-!spellshoppe
-!iheartyou
-!beatsbyelder
-!controllers
-!helpshift
-!concertwhen (outdated)
-!herecomesthesun
-!whosthatsprit
-!holdmyhand
-!happynewyear (outdated)
-```
+# 
