@@ -177,6 +177,9 @@ a rythm guide / i wish to be a rythm guide
 ```
 !nagatirank
 ```
+```
+!lunarnewwhen
+```
 # every command (messy)
 ```
 !command / !commands
