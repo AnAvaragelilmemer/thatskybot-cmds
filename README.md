@@ -234,4 +234,14 @@ i wish to be a rythm guide
 ```
 !doublehearts
 ```
+```
+!qrcode
+```
+```
+!hallowhen
+```
+```
+!whosthatspirit
+```
 # 
+current update : added !qrcode, !hallowhen, !whosthatsprit.
