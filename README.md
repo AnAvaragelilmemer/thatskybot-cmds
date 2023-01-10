@@ -243,5 +243,8 @@ i wish to be a rythm guide
 ```
 !whosthatspirit
 ```
+```
+!daysofwhenbow
+```
 # 
-current update : added !qrcode, !hallowhen, !whosthatsprit.
+current update : added !daysofwhenbow
