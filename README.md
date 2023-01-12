@@ -246,5 +246,8 @@ i wish to be a rythm guide
 ```
 !daysofwhenbow
 ```
+```
+!spellshop
+```
 # 
-current update : added !daysofwhenbow
+current update : added !spellshop
