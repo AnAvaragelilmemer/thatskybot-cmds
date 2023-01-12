@@ -1,5 +1,5 @@
 # thatskybot commands / the attempt of helping others
-please note that this is not completed yet, Sky : children of the light's server : https://discord.gg/thatskygame
+please note that this is not completed yet, Sky : children of the light's server :[sky discord](https://discord.gg/thatskygame)
 # goofy cmds
 ```bash
 !thememetheme
