@@ -249,5 +249,8 @@ i wish to be a rythm guide
 ```
 !spellshop
 ```
+```
+!candleswherebruh
+```
 # 
-current update : added !spellshop
+current update : added !spellshop and !candleswherebruh
