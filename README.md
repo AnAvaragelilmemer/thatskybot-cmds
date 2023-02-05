@@ -252,5 +252,9 @@ i wish to be a rythm guide
 ```
 !candleswherebruh
 ```
+```
+!readthepins
+```
 # 
-current update : added !spellshop and !candleswherebruh
+current update : added !readthepins
+
