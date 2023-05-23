@@ -1,4 +1,4 @@
-# thatskybot commands / the attempt of helping others
+# thatskybot commands / discontinued 
 please note that this is not completed yet, Sky : children of the light's server :[sky discord](https://discord.gg/thatskygame)
 # goofy cmds
 ```bash
