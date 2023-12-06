@@ -29,7 +29,7 @@ please note that this is not completed yet, Sky : children of the light's server
 ```bash
 !tts
 ```
-## grandma/turtle/geyser when
+## grandma/turtle/geyser/concert when
 ```bash
 !grandmawhen
 ```
@@ -46,7 +46,10 @@ please note that this is not completed yet, Sky : children of the light's server
 ```bash
 !edenreset
 ```
-## dms
+```bash
+!concertwhen
+```
+## mischief roles
 in this case, you need to get on skybot's dms to get it working
 ```bash
 !team_mischief
@@ -196,9 +199,6 @@ i wish to be a rythm guide
 ```
 ```bash
 !beatsbyelder
-```
-```bash
-!concertwhen
 ```
 ```bash
 !controllers
