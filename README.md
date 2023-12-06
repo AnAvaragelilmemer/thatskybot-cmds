@@ -1,16 +1,6 @@
-# thatskybot commands / discontinued 
+## thatskybot commands
 please note that this is not completed yet, Sky : children of the light's server :[sky discord](https://discord.gg/thatskygame)
-# goofy cmds
-```bash
-!thememetheme
-```
-```bash
-!parchnotes
-```
-```bash
-!command
-```
-# travelling sprit related cmds
+## travelling sprit related cmds
 
 ```bash
 !ts
@@ -39,7 +29,7 @@ please note that this is not completed yet, Sky : children of the light's server
 ```bash
 !tts
 ```
-# grandma/turtle/geyser when
+## grandma/turtle/geyser when
 ```bash
 !grandmawhen
 ```
@@ -49,211 +39,220 @@ please note that this is not completed yet, Sky : children of the light's server
 ```bash
 !turtlewhen
 ```
-# eden 
+## eden 
 ```bash
 !er
 ``` 
 ```bash
 !edenreset
 ```
-# dms
+## dms
 in this case, you need to get on skybot's dms to get it working
 ```bash
 !team_mischief
 ```
-every mischief roles (dm skybot to get the role)
+every mischief roles (dm skybot or go to a text channel and say the things below)
 
-```
+```bash
 i wish to be a bean
 ```
-```
+```bash
 i wish to be a bird
 ```
-```
+```bash
 i wish to be a buff moth
 ```
-```
+```bash
 i wish to be a bunny
 ```
-```
+```bash
 i wish to be a butterfly
 ```
-```
+```bash
 i wish to be a cosmic manta
 ```
-```
+```bash
 i wish to be a crab 
 ```
-```
+```bash
 i wish to be an elder bird 
 ```
-```
+```bash
 i wish to be a dreams skater
 ```
-```
+```bash
 i wish to be a flight guide
 ```
-```
+```bash
 i wish to be a gradtitude guide
 ```
-```
+```bash
 i wish to be a jellyfish
 ```
-```
+```bash
 i wish to be just a fish
 ```
-```
+```bash
 i wish to be a koi fish
 ```
-```
+```bash
 i wish to be a krilled skykid
 ```
-```
+```bash
 i wish to be a manta
 ```
-```
+```bash
 i wish to be a moth
 ```
-```
+```bash
 i wish to be not a krill
 ```
-```
+```bash
 i wish to be a shadow
 ```
-```
+```bash
 i wish to be a pair of pants
 ```
-```
+```bash
 i wish to be oreo
 ```
-```
+```bash
 i wish to be a performance guide
 ```
-```
+```bash
 i wish to be a prophecy guide
 ```
-```
+```bash
 i wish to be a rythm guide
 ```
 
-# every commands (above commands will not show up)
+## miscellaneous commands
 
-```
+```bash
 !help
 ```
-```
+```bash
 !rank
 ```
-```
+```bash
 !harbinrank
 ```
-```
+```bash
 !gotosneep
 ```
-```
+```bash
 !parchnotes
 ```
-```
+```bash
 !seasonwhentellmebruh
 ```
-```
+```bash
 !omgomghaveyouseenthe
 ```
-```
+```bash
 !omgomgwhen
 ```
-```
+```bash
 !spoiler
 ```
-```
+```bash
 !spoilertext
 ```
-```
+```bash
 !msgcandles
 ```
-```
+```bash
 !patchnotes
 ```
-```
+```bash
 !friendsnotfood
 ```
-```
+```bash
 !skate-n-sleigh
 ```
-```
+```bash
 !serendipity
 ```
-```
+```bash
 !starpins
 ```
-```
+```bash
 !psfaq
 ```
-```
+```bash
 !pslink
 ```
-```
+```bash
 !wiki
 ```
-```
+```bash
 !support
 ```
-```
+```bash
 !spellshoppe
 ```
-```
+```bash
 !iheartyou
 ```
-```
+```bash
 !beatsbyelder
 ```
+```bash
+!concertwhen
 ```
-!concertwhen (outdated dont use)
-```
-```
+```bash
 !controllers
 ```
-```
+```bash
 !helpshift
 ```
-```
+```bash
 !herecomesthesun
 ```
-```
+```bash
 !holdmyhand
 ```
-```
+```bash
 !happynewyear
 ```
-```
+```bash
 !nagatirank
 ```
-```
+```baah
 !lunarnewwhen
 ```
-```
+```bash
 !doublehearts
 ```
-```
+```bash
 !qrcode
 ```
-```
+```bash
 !hallowhen
 ```
-```
+```bash
 !whosthatspirit
 ```
-```
+```bash
 !daysofwhenbow
 ```
-```
+```bash
 !spellshop
 ```
-```
+```bash
 !candleswherebruh
 ```
-```
+```bash
 !readthepins
+```
+```bash
+!wafo
+```
+```bash
+!hiskybot
+```
+```bash
+!*herecomesthesun*
 ```
 # 
 current update : added !readthepins
