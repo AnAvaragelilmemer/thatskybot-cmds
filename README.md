@@ -218,7 +218,7 @@ i wish to be a rythm guide
 ```bash
 !nagatirank
 ```
-```baah
+```bash
 !lunarnewwhen
 ```
 ```bash
@@ -254,6 +254,4 @@ i wish to be a rythm guide
 ```bash
 !*herecomesthesun*
 ```
-# 
-current update : added !readthepins
 
