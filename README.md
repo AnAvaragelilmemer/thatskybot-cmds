@@ -39,18 +39,18 @@ please note that this is not completed yet, Sky : children of the light's server
 ```bash
 !turtlewhen
 ```
+```bash
+!concertwhen
+```
+```bash
+!fireworkwhen
+```
 ## eden 
 ```bash
 !er
 ``` 
 ```bash
 !edenreset
-```
-```bash
-!concertwhen
-```
-```bash
-!fireworkwhen
 ```
 ## mischief roles
 in this case, you need to get on skybot's dms to get it working
