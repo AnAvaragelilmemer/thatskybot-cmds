@@ -49,6 +49,9 @@ please note that this is not completed yet, Sky : children of the light's server
 ```bash
 !concertwhen
 ```
+```bash
+!fireworkwhen
+```
 ## mischief roles
 in this case, you need to get on skybot's dms to get it working
 ```bash
