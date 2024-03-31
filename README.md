@@ -257,5 +257,8 @@ i wish to be a rythm guide
 ```bash
 !*herecomesthesun*
 ```
+```bash
+!colorwhen
+```
 
 
