@@ -260,5 +260,8 @@ i wish to be a rythm guide
 ```bash
 !colorwhen
 ```
+```bash
+!aiyaiyai
+```
 
 
