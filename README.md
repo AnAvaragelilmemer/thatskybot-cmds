@@ -263,5 +263,10 @@ i wish to be a rythm guide
 ```bash
 !aiyaiyai
 ```
-
+```bash
+!pinf
+```
+```bash
+!shmomp
+```
 
