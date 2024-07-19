@@ -269,4 +269,6 @@ i wish to be a rythm guide
 ```bash
 !shmomp
 ```
-
+```bash
+!byeskybot
+```
